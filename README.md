@@ -12,3 +12,4 @@ Stack: Next.js 15 + Supabase + TypeScript + Tailwind.
 - Keine AI-Attribution Kommentare
 - Keine .cursorrules Datei
 - Kein Rate-Limiting auf AI-Endpunkt
+
